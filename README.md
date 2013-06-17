@@ -4,4 +4,4 @@
 
 ---
 
-##### It's quite a algorithmic way to solve the updated problems on the site, in which offers the references of corresponding problems, which may help you a lot. #####
+##### It's quite a algorithmic way to solve the updated problems on the site, in which offers the references of corresponding problems, which may help you a lot, but only after solving the problems by your own. #####
