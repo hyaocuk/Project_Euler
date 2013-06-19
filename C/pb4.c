@@ -29,7 +29,6 @@ int main() {
 				if(a==e && b==d && product>max)
 				{
 					max = product;
-					printf("%d ", max);
 					break;
 				}
 			}
@@ -47,13 +46,12 @@ int main() {
 				f = r;
 				if(a==f && b==e && c==d && product>max) {
 					max = product;
-					printf("%d ", max);
 					break;
 				}
 			}
-			printf("\n");
 		}
 	}
+	printf("%d\n", max);
 
 	return 0;
 }
